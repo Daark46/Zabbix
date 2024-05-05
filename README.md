@@ -71,7 +71,9 @@ sudo systemctl enable zabbix-server apache2 # zabbix-agent
 
 ### Решение 2
 ![alt text](https://github.com/Daark46/Zabbix/blob/main/Zabbix/zabbix2.png)
+
 ![alt text](https://github.com/Daark46/Zabbix/blob/main/Zabbix/zabbix2.1.png)
+
 ![alt text](https://github.com/Daark46/Zabbix/blob/main/Zabbix/zabbix3.png)
 
 ```
